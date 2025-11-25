@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(38,38,38);
+    font-size: 60px;
+    color:rgb(102,102,204);
+    font-family: inherit;
+}
+#Fotos{
+    text-align: center;
+    align-items: center;
+    margin: 200px;
+    color:aliceblue;
+    left:0%;
+    right:0%
+}
+header{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color:white ;
+    left:0%;
+    right:0%;
+}
+input{
+    font-size: 25px;
+}
+h4{
+    font-size: 35px;
+}
